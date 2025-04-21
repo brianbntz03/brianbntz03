@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Brian Alexis Benítez
 
-<!--
-**brianbntz03/brianbntz03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desarrollador Front-End con foco en crear aplicaciones web y mobile utilizando **ReactJS**, **React Native** y **JavaScript**.
 
-Here are some ideas to get you started:
+🚀 Actualmente desarrollando proyectos personales para seguir aprendiendo y construir un portafolio sólido.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tecnologías:
+- React · React Native · JavaScript
+- HTML · CSS · Git · GitHub
+- SQL
+
+📫 Podés contactarme en:
+- 💼 LinkedIn: [linkedin.com/in/brian-alexis-benitez-9394b726a](https://www.linkedin.com/in/brian-alexis-benitez-9394b726a)
+- 📂 Portfolio: [github.com/brianbntz03](https://github.com/brianbntz03)
+
+💻 ¡Gracias por visitar mi perfil!

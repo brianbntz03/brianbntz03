@@ -8,7 +8,7 @@
 🚀 Actualmente desarrollando proyectos personales para seguir aprendiendo y construir un portafolio sólido.
 
 🔧 Tecnologías:
-- React · React Native · JavaScript
+- React · JavaScript
 - HTML · CSS · Git · GitHub
 - SQL
 

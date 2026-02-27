@@ -3,17 +3,20 @@
 
 # 👋 ¡Hola! Soy Brian Alexis Benítez
 
-🎯 Desarrollador Front-End con foco en crear aplicaciones web y mobile utilizando **ReactJS**, **React Native** y **JavaScript**.
+💻 Full-Stack Developer apasionado por construir aplicaciones web modernas, escalables y funcionales.
 
-🚀 Actualmente desarrollando proyectos personales para seguir aprendiendo y construir un portafolio sólido.
+🚀 Me especializo en el ecosistema JavaScript, trabajando tanto en front-end como en back-end, transformando ideas en productos reales y optimizando la experiencia de usuario y la lógica del servidor.
 
-🔧 Tecnologías:
-- React · JavaScript
-- HTML · CSS · Git · GitHub
-- SQL
+🧠 Actualmente desarrollo proyectos personales para fortalecer mis habilidades y profundizar en arquitectura, buenas prácticas y rendimiento.
 
-📫 Podés contactarme en:
-- 💼 LinkedIn: [linkedin.com/in/brian-alexis-benitez-9394b726a](https://www.linkedin.com/in/brian-alexis-benitez-9394b726a)
-- 📂 Portfolio: [github.com/brianbntz03](https://github.com/brianbntz03)
+🔧 Tecnologías principales:
 
-💻 ¡Gracias por visitar mi perfil!
+Frontend: React · JavaScript · HTML · CSS
+Backend: Node.js · Express
+Bases de datos: MongoDB · SQL
+Herramientas: Git · GitHub
+
+📫 Contacto:
+💼 LinkedIn: linkedin.com/in/brian-alexis-benitez-9394b726a
+
+✨ Siempre abierto a nuevas oportunidades y desafíos.

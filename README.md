@@ -17,6 +17,6 @@ Bases de datos: MongoDB · SQL
 Herramientas: Git · GitHub
 
 📫 Contacto:
-💼 LinkedIn: linkedin.com/in/brian-alexis-benitez-9394b726a
+💼 LinkedIn: www.linkedin.com/in/brian-alexis-benitez-9394b726a
 
 ✨ Siempre abierto a nuevas oportunidades y desafíos.

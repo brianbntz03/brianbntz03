@@ -1,4 +1,5 @@
-![Image](https://github.com/user-attachments/assets/571c36d1-e0ef-4bed-8e50-5604ea677d11)
+![Image](<img width="1734" height="906" alt="image" src="https://github.com/user-attachments/assets/1a5fd663-6596-454d-92ea-3f41af698037" />
+)
 #
 
 # 👋 ¡Hola! Soy Brian Alexis Benítez

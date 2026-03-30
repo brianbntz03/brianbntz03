@@ -1,4 +1,4 @@
-![Image]([<img width="1734" height="906" alt="image" src="https://github.com/user-attachments/assets/1a5fd663-6596-454d-92ea-3f41af698037" />](https://github.com/brianbntz03/brianbntz03/blob/af5e09269c0cd17467d3c6b004a021a47c0bd9a2/portada%20para%20github.png)
+![Image alt](https://github.com/brianbntz03/brianbntz03/blob/af5e09269c0cd17467d3c6b004a021a47c0bd9a2/portada%20para%20github.png)
 )
 #
 

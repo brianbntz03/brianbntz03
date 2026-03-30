@@ -1,7 +1,7 @@
 ![Image alt](https://github.com/brianbntz03/brianbntz03/blob/af5e09269c0cd17467d3c6b004a021a47c0bd9a2/portada%20para%20github.png)
 #
 
-# 👋 ¡Hola! Soy Brian Alexis Benítez
+# 👋 ¡Hola! Soy Brian Benítez
 
 💻 Full-Stack Developer apasionado por construir aplicaciones web modernas, escalables y funcionales.
 
